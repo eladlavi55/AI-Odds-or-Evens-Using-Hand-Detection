@@ -1,0 +1,17 @@
+{
+  "total_games": 105,
+  "total_rounds": 344,
+  "finger_counts": {
+    "1": 18,
+    "2": 57,
+    "3": 26,
+    "4": 33,
+    "5": 31
+  },
+  "choice_history": {
+    "odds": 191,
+    "evens": 75
+  },
+  "win_rate": 0.21220930232558138,
+  "patterns": {}
+}

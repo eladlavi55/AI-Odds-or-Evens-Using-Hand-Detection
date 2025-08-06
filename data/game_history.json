@@ -1,0 +1,2233 @@
+[
+  {},
+  {
+    "timestamp": "2025-06-14T16:15:40.442571",
+    "current_round": 0,
+    "player_fingers": 2,
+    "robot_fingers": 3,
+    "player_choice": "odds",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": 3,
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-14T16:15:48.613316",
+    "current_round": 1,
+    "player_fingers": 3,
+    "robot_fingers": 5,
+    "player_choice": "odds",
+    "total": 8,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": 3,
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-14T16:15:58.426581",
+    "current_round": 2,
+    "player_fingers": 4,
+    "robot_fingers": 3,
+    "player_choice": "odds",
+    "total": 7,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 1,
+    "ai_prediction": 5,
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-14T16:16:10.179028",
+    "current_round": 1,
+    "player_fingers": 0,
+    "robot_fingers": 3,
+    "player_choice": "odds",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": 5,
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-14T16:16:18.365835",
+    "current_round": 2,
+    "player_fingers": 1,
+    "robot_fingers": 5,
+    "player_choice": "odds",
+    "total": 6,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": 4,
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-14T16:16:18.365835",
+    "current_round": 2,
+    "player_fingers": 1,
+    "robot_fingers": 5,
+    "player_choice": "odds",
+    "total": 6,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": 4,
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-14T16:16:28.646029",
+    "current_round": 3,
+    "player_fingers": 4,
+    "robot_fingers": 2,
+    "player_choice": "evens",
+    "total": 6,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 1,
+    "ai_prediction": 1,
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-14T16:16:41.651124",
+    "current_round": 1,
+    "player_fingers": 5,
+    "robot_fingers": 2,
+    "player_choice": "evens",
+    "total": 7,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": 3,
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-14T16:16:49.904088",
+    "current_round": 2,
+    "player_fingers": 2,
+    "robot_fingers": 3,
+    "player_choice": "evens",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 2,
+    "ai_prediction": 4,
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-14T16:16:49.904088",
+    "current_round": 2,
+    "player_fingers": 2,
+    "robot_fingers": 3,
+    "player_choice": "evens",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 2,
+    "ai_prediction": 4,
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-14T16:17:42.502398",
+    "current_round": 0,
+    "player_fingers": 2,
+    "robot_fingers": 4,
+    "player_choice": "odds",
+    "total": 6,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": 1,
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-14T16:17:50.986810",
+    "current_round": 1,
+    "player_fingers": 1,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 2,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 2,
+    "ai_prediction": 5,
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-14T16:18:00.865325",
+    "current_round": 1,
+    "player_fingers": 0,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 1,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": 3,
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-14T16:18:00.865325",
+    "current_round": 1,
+    "player_fingers": 0,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 1,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": 3,
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-14T16:18:00.865325",
+    "current_round": 1,
+    "player_fingers": 0,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 1,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": 3,
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-14T16:18:37.506204",
+    "current_round": 0,
+    "player_fingers": 4,
+    "robot_fingers": 3,
+    "player_choice": "odds",
+    "total": 7,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": 1,
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-14T16:18:48.193842",
+    "current_round": 1,
+    "player_fingers": 2,
+    "robot_fingers": 2,
+    "player_choice": "odds",
+    "total": 4,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": 1,
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-14T16:18:58.217072",
+    "current_round": 2,
+    "player_fingers": 0,
+    "robot_fingers": 5,
+    "player_choice": "odds",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 1,
+    "ai_prediction": 3,
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-14T16:19:43.450350",
+    "current_round": 1,
+    "player_fingers": 2,
+    "robot_fingers": 2,
+    "player_choice": "odds",
+    "total": 4,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": 4,
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-14T16:19:50.813692",
+    "current_round": 2,
+    "player_fingers": 5,
+    "robot_fingers": 4,
+    "player_choice": "odds",
+    "total": 9,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": 5,
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-14T16:19:50.813692",
+    "current_round": 2,
+    "player_fingers": 5,
+    "robot_fingers": 4,
+    "player_choice": "odds",
+    "total": 9,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": 5,
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-14T16:20:21.744273",
+    "current_round": 0,
+    "player_fingers": 5,
+    "robot_fingers": 4,
+    "player_choice": "odds",
+    "total": 9,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": 4,
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-14T16:20:21.744273",
+    "current_round": 0,
+    "player_fingers": 5,
+    "robot_fingers": 4,
+    "player_choice": "odds",
+    "total": 9,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": 4,
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T16:52:39.356693",
+    "current_round": 1,
+    "player_fingers": 4,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 1,
+      "choice": "evens",
+      "confidence": 0.0
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T16:52:51.235825",
+    "current_round": 2,
+    "player_fingers": 5,
+    "robot_fingers": 5,
+    "player_choice": "odds",
+    "total": 10,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 1,
+      "choice": "odds",
+      "confidence": 0.002499994791679727
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T16:52:59.431283",
+    "current_round": 3,
+    "player_fingers": 2,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 1,
+      "choice": "odds",
+      "confidence": 0.009980918590420051
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T16:53:15.639929",
+    "current_round": 1,
+    "player_fingers": 4,
+    "robot_fingers": 3,
+    "player_choice": "odds",
+    "total": 7,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 1,
+      "choice": "odds",
+      "confidence": 0.005371151980285482
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T16:54:26.886956",
+    "current_round": 2,
+    "player_fingers": 5,
+    "robot_fingers": 3,
+    "player_choice": "odds",
+    "total": 8,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 1,
+      "choice": "odds",
+      "confidence": 0.04069728152139174
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T16:54:35.935956",
+    "current_round": 3,
+    "player_fingers": 2,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.06441829055460535
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T17:00:10.631037",
+    "current_round": 1,
+    "player_fingers": 4,
+    "robot_fingers": 5,
+    "player_choice": "odds",
+    "total": 9,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 1,
+      "choice": "evens",
+      "confidence": 0.5527788646571936
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T17:00:15.203750",
+    "current_round": 2,
+    "player_fingers": 5,
+    "robot_fingers": 3,
+    "player_choice": "odds",
+    "total": 8,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.07073847573464809
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T17:00:20.814832",
+    "current_round": 3,
+    "player_fingers": 2,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.09713372882992188
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T17:00:40.262922",
+    "current_round": 1,
+    "player_fingers": 2,
+    "robot_fingers": 3,
+    "player_choice": "evens",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.11957384427959816
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T17:00:45.216002",
+    "current_round": 2,
+    "player_fingers": 4,
+    "robot_fingers": 5,
+    "player_choice": "evens",
+    "total": 9,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 2,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.10825449204040072
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T18:48:16.709042",
+    "current_round": 1,
+    "player_fingers": 2,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 4,
+      "choice": "odds",
+      "confidence": 0.034677245891983954
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T18:48:26.658944",
+    "current_round": 2,
+    "player_fingers": 4,
+    "robot_fingers": 5,
+    "player_choice": "odds",
+    "total": 9,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 4,
+      "choice": "odds",
+      "confidence": 0.10881173515441955
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T20:26:33.428213",
+    "current_round": 1,
+    "player_fingers": 2,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 4,
+      "choice": "odds",
+      "confidence": 0.17235167245375016
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T20:27:00.548050",
+    "current_round": 2,
+    "player_fingers": 4,
+    "robot_fingers": 3,
+    "player_choice": "odds",
+    "total": 7,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 4,
+      "choice": "odds",
+      "confidence": 0.1707033715802082
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T21:10:16.991560",
+    "current_round": 1,
+    "player_fingers": 5,
+    "robot_fingers": 5,
+    "player_choice": "odds",
+    "total": 10,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.16235687096328633
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T21:10:58.196073",
+    "current_round": 2,
+    "player_fingers": 2,
+    "robot_fingers": 3,
+    "player_choice": "odds",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.1563971172210996
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T21:11:17.796980",
+    "current_round": 3,
+    "player_fingers": 1,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 2,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 2,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.1507842589649464
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T21:11:45.790865",
+    "current_round": 1,
+    "player_fingers": 2,
+    "robot_fingers": 1,
+    "player_choice": "evens",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.19398491099900395
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T21:11:52.787608",
+    "current_round": 2,
+    "player_fingers": 4,
+    "robot_fingers": 1,
+    "player_choice": "evens",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 2,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.1976349959733128
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T21:12:05.929725",
+    "current_round": 1,
+    "player_fingers": 5,
+    "robot_fingers": 5,
+    "player_choice": "evens",
+    "total": 10,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.1711808948529916
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T21:12:14.541170",
+    "current_round": 2,
+    "player_fingers": 2,
+    "robot_fingers": 1,
+    "player_choice": "evens",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 4,
+      "choice": "odds",
+      "confidence": 0.13969800779214436
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T21:12:22.546543",
+    "current_round": 3,
+    "player_fingers": 2,
+    "robot_fingers": 1,
+    "player_choice": "evens",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 2,
+    "ai_prediction": {
+      "finger_count": 4,
+      "choice": "odds",
+      "confidence": 0.08833998317241587
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T21:12:35.491199",
+    "current_round": 1,
+    "player_fingers": 2,
+    "robot_fingers": 1,
+    "player_choice": "evens",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "evens",
+      "confidence": 0.0006185294916140061
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T21:12:46.023976",
+    "current_round": 2,
+    "player_fingers": 2,
+    "robot_fingers": 5,
+    "player_choice": "evens",
+    "total": 7,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 2,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "evens",
+      "confidence": 0.02594422045120015
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T21:12:52.421384",
+    "current_round": 1,
+    "player_fingers": 4,
+    "robot_fingers": 1,
+    "player_choice": "evens",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "evens",
+      "confidence": 0.06840685056689177
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T21:12:58.723109",
+    "current_round": 2,
+    "player_fingers": 2,
+    "robot_fingers": 1,
+    "player_choice": "evens",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 2,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "evens",
+      "confidence": 0.07640218944685584
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T21:13:05.079756",
+    "current_round": 1,
+    "player_fingers": 3,
+    "robot_fingers": 5,
+    "player_choice": "evens",
+    "total": 8,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "evens",
+      "confidence": 0.142811924472231
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T21:13:22.447436",
+    "current_round": 2,
+    "player_fingers": 3,
+    "robot_fingers": 5,
+    "player_choice": "evens",
+    "total": 8,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "evens",
+      "confidence": 0.10437891436694402
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T21:13:50.857234",
+    "current_round": 1,
+    "player_fingers": 1,
+    "robot_fingers": 3,
+    "player_choice": "evens",
+    "total": 4,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "evens",
+      "confidence": 0.11290757019076947
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T21:14:03.678207",
+    "current_round": 2,
+    "player_fingers": 4,
+    "robot_fingers": 5,
+    "player_choice": "evens",
+    "total": 9,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "evens",
+      "confidence": 0.10793553133999478
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T21:14:12.888158",
+    "current_round": 3,
+    "player_fingers": 2,
+    "robot_fingers": 5,
+    "player_choice": "evens",
+    "total": 7,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 2,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "evens",
+      "confidence": 0.05279512855362267
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T21:14:19.938639",
+    "current_round": 1,
+    "player_fingers": 1,
+    "robot_fingers": 5,
+    "player_choice": "evens",
+    "total": 6,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "evens",
+      "confidence": 0.1419742521966233
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T21:14:28.449975",
+    "current_round": 2,
+    "player_fingers": 4,
+    "robot_fingers": 3,
+    "player_choice": "evens",
+    "total": 7,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "evens",
+      "confidence": 0.16495584772124772
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T21:14:37.676977",
+    "current_round": 3,
+    "player_fingers": 3,
+    "robot_fingers": 5,
+    "player_choice": "evens",
+    "total": 8,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "evens",
+      "confidence": 0.12929751669950507
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T22:43:26.527928",
+    "current_round": 1,
+    "player_fingers": 2,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "evens",
+      "confidence": 0.14898096647579007
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T22:44:23.573364",
+    "current_round": 1,
+    "player_fingers": 2,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "evens",
+      "confidence": 0.09218107013052768
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T22:44:30.522561",
+    "current_round": 2,
+    "player_fingers": 3,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 4,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "evens",
+      "confidence": 0.005626689655519601
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T22:44:44.706036",
+    "current_round": 3,
+    "player_fingers": 4,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.03857010986958409
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T22:52:08.109143",
+    "current_round": 1,
+    "player_fingers": 4,
+    "robot_fingers": 3,
+    "player_choice": "odds",
+    "total": 7,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.1226360958346866
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T22:52:14.386565",
+    "current_round": 2,
+    "player_fingers": 3,
+    "robot_fingers": 5,
+    "player_choice": "odds",
+    "total": 8,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.17943212651048146
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T22:52:20.138842",
+    "current_round": 3,
+    "player_fingers": 1,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 2,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 2,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.15791290220494725
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T22:58:04.736742",
+    "current_round": 1,
+    "player_fingers": 0,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 1,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.09294577096341938
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T22:58:23.292330",
+    "current_round": 2,
+    "player_fingers": 2,
+    "robot_fingers": 3,
+    "player_choice": "odds",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.14090719594709844
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T22:58:52.364659",
+    "current_round": 1,
+    "player_fingers": 1,
+    "robot_fingers": 3,
+    "player_choice": "odds",
+    "total": 4,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.1605398773643507
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T22:59:05.496948",
+    "current_round": 2,
+    "player_fingers": 0,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 1,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.14426134942077407
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T22:59:15.738815",
+    "current_round": 3,
+    "player_fingers": 0,
+    "robot_fingers": 3,
+    "player_choice": "odds",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.2143517256625962
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T22:59:31.396046",
+    "current_round": 1,
+    "player_fingers": 0,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 1,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 1,
+      "choice": "odds",
+      "confidence": 0.2643480339760631
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T22:59:50.043273",
+    "current_round": 2,
+    "player_fingers": 4,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 1,
+      "choice": "odds",
+      "confidence": 0.3052816988558398
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T23:03:39.898570",
+    "current_round": 1,
+    "player_fingers": 3,
+    "robot_fingers": 3,
+    "player_choice": "odds",
+    "total": 6,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.14158915610892242
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T23:03:47.096868",
+    "current_round": 2,
+    "player_fingers": 3,
+    "robot_fingers": 5,
+    "player_choice": "odds",
+    "total": 8,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 2,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.18056204629905293
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-15T23:04:10.761914",
+    "current_round": 1,
+    "player_fingers": 2,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.14153663046212994
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-15T23:04:15.259218",
+    "current_round": 2,
+    "player_fingers": 2,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.15847081271415275
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-06-16T08:05:24.029102",
+    "current_round": 1,
+    "player_fingers": 4,
+    "robot_fingers": 5,
+    "player_choice": "evens",
+    "total": 9,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 1,
+      "choice": "evens",
+      "confidence": 0.09665063471884616
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-16T08:05:43.159856",
+    "current_round": 2,
+    "player_fingers": 3,
+    "robot_fingers": 1,
+    "player_choice": "evens",
+    "total": 4,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 5,
+      "choice": "evens",
+      "confidence": 0.3071713626477074
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-06-16T08:05:53.513564",
+    "current_round": 3,
+    "player_fingers": 2,
+    "robot_fingers": 3,
+    "player_choice": "odds",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "evens",
+      "confidence": 0.3031237961401446
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-07-25T23:51:06.226086",
+    "current_round": 1,
+    "player_fingers": 5,
+    "robot_fingers": 4,
+    "player_choice": "odds",
+    "total": 9,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.22848442558733306
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-25T23:51:13.456788",
+    "current_round": 2,
+    "player_fingers": 5,
+    "robot_fingers": 2,
+    "player_choice": "odds",
+    "total": 7,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.22086422556293273
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-07-25T23:53:49.520579",
+    "current_round": 1,
+    "player_fingers": 3,
+    "robot_fingers": 5,
+    "player_choice": "evens",
+    "total": 8,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.22775858451314956
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-25T23:54:01.556511",
+    "current_round": 2,
+    "player_fingers": 4,
+    "robot_fingers": 1,
+    "player_choice": "evens",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.2663083460355482
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-25T23:54:09.932218",
+    "current_round": 3,
+    "player_fingers": 2,
+    "robot_fingers": 1,
+    "player_choice": "evens",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 2,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.19219235851019034
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-07-26T00:09:34.623406",
+    "current_round": 1,
+    "player_fingers": 2,
+    "robot_fingers": 4,
+    "player_choice": "evens",
+    "total": 6,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 1,
+      "choice": "evens",
+      "confidence": 0.28339946862702137
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T00:09:56.933663",
+    "current_round": 2,
+    "player_fingers": 3,
+    "robot_fingers": 1,
+    "player_choice": "evens",
+    "total": 4,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "evens",
+      "confidence": 0.29490834578717595
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-07-26T00:10:20.753898",
+    "current_round": 1,
+    "player_fingers": 3,
+    "robot_fingers": 2,
+    "player_choice": "odds",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "evens",
+      "confidence": 0.3365650192243912
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T00:10:35.022577",
+    "current_round": 2,
+    "player_fingers": 2,
+    "robot_fingers": 2,
+    "player_choice": "odds",
+    "total": 4,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "evens",
+      "confidence": 0.20555472853793355
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T00:10:44.809750",
+    "current_round": 3,
+    "player_fingers": 4,
+    "robot_fingers": 5,
+    "player_choice": "odds",
+    "total": 9,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "evens",
+      "confidence": 0.0801971231233719
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-07-26T00:13:43.221569",
+    "current_round": 1,
+    "player_fingers": 2,
+    "robot_fingers": 5,
+    "player_choice": "odds",
+    "total": 7,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.00660297040443103
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T00:13:58.083797",
+    "current_round": 2,
+    "player_fingers": 4,
+    "robot_fingers": 5,
+    "player_choice": "odds",
+    "total": 9,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.09516831648075996
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-07-26T00:14:17.448978",
+    "current_round": 1,
+    "player_fingers": 2,
+    "robot_fingers": 1,
+    "player_choice": "evens",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.1439604048174521
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T00:14:28.068939",
+    "current_round": 2,
+    "player_fingers": 5,
+    "robot_fingers": 1,
+    "player_choice": "evens",
+    "total": 6,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.06223892403792641
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T00:14:37.757295",
+    "current_round": 3,
+    "player_fingers": 3,
+    "robot_fingers": 1,
+    "player_choice": "evens",
+    "total": 4,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.02020020862247862
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-07-26T00:14:50.970623",
+    "current_round": 1,
+    "player_fingers": 4,
+    "robot_fingers": 4,
+    "player_choice": "evens",
+    "total": 8,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "evens",
+      "confidence": 0.04744805852406453
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T00:14:58.893544",
+    "current_round": 2,
+    "player_fingers": 2,
+    "robot_fingers": 2,
+    "player_choice": "evens",
+    "total": 4,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "evens",
+      "confidence": 0.12476870525891604
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-07-26T00:18:59.973678",
+    "current_round": 1,
+    "player_fingers": 5,
+    "robot_fingers": 5,
+    "player_choice": "odds",
+    "total": 10,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 4,
+      "choice": "evens",
+      "confidence": 0.14561378443852158
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T00:19:07.301327",
+    "current_round": 2,
+    "player_fingers": 3,
+    "robot_fingers": 4,
+    "player_choice": "odds",
+    "total": 7,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "evens",
+      "confidence": 0.12965214343707443
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T00:19:16.901986",
+    "current_round": 3,
+    "player_fingers": 3,
+    "robot_fingers": 2,
+    "player_choice": "odds",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "evens",
+      "confidence": 0.00411059193805563
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-07-26T00:19:28.102386",
+    "current_round": 1,
+    "player_fingers": 2,
+    "robot_fingers": 3,
+    "player_choice": "odds",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.03207277970311062
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T00:19:34.901241",
+    "current_round": 2,
+    "player_fingers": 1,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 2,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.12670317981457413
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T00:19:41.667733",
+    "current_round": 3,
+    "player_fingers": 1,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 2,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 2,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.16128009908439123
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-07-26T00:21:23.251548",
+    "current_round": 1,
+    "player_fingers": 4,
+    "robot_fingers": 5,
+    "player_choice": "odds",
+    "total": 9,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.18983208511779814
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T00:21:34.572203",
+    "current_round": 2,
+    "player_fingers": 3,
+    "robot_fingers": 2,
+    "player_choice": "odds",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.17175420121983942
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-07-26T00:21:51.690177",
+    "current_round": 1,
+    "player_fingers": 3,
+    "robot_fingers": 1,
+    "player_choice": "evens",
+    "total": 4,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.19561155402496588
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T00:22:02.289769",
+    "current_round": 2,
+    "player_fingers": 2,
+    "robot_fingers": 5,
+    "player_choice": "evens",
+    "total": 7,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.14190131638318237
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T00:22:10.872056",
+    "current_round": 3,
+    "player_fingers": 5,
+    "robot_fingers": 5,
+    "player_choice": "evens",
+    "total": 10,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.11016274974310192
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-07-26T00:23:31.064507",
+    "current_round": 1,
+    "player_fingers": 3,
+    "robot_fingers": 5,
+    "player_choice": "odds",
+    "total": 8,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.017082197806273403
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T00:23:40.588491",
+    "current_round": 2,
+    "player_fingers": 5,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 6,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 2,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.014109090126905866
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-07-26T00:23:56.515892",
+    "current_round": 1,
+    "player_fingers": 3,
+    "robot_fingers": 5,
+    "player_choice": "evens",
+    "total": 8,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "evens",
+      "confidence": 0.04859484696407079
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T00:24:06.707462",
+    "current_round": 2,
+    "player_fingers": 2,
+    "robot_fingers": 2,
+    "player_choice": "evens",
+    "total": 4,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "evens",
+      "confidence": 0.044829306643028866
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-07-26T17:43:48.217473",
+    "current_round": 1,
+    "player_fingers": 5,
+    "robot_fingers": 5,
+    "player_choice": "evens",
+    "total": 10,
+    "is_odd": false,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.07841300082248814
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T17:44:09.300128",
+    "current_round": 2,
+    "player_fingers": 2,
+    "robot_fingers": 4,
+    "player_choice": "odds",
+    "total": 6,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.058141026899801274
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T17:44:26.835285",
+    "current_round": 3,
+    "player_fingers": 1,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 2,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 2,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.09890630781357346
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-07-26T17:45:13.800247",
+    "current_round": 1,
+    "player_fingers": 3,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 4,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.13380500091081649
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T17:45:31.273815",
+    "current_round": 2,
+    "player_fingers": 2,
+    "robot_fingers": 4,
+    "player_choice": "odds",
+    "total": 6,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 2,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.1344531404548921
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-07-26T17:45:47.128022",
+    "current_round": 1,
+    "player_fingers": 2,
+    "robot_fingers": 2,
+    "player_choice": "odds",
+    "total": 4,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.10967759379704511
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T17:46:20.291491",
+    "current_round": 2,
+    "player_fingers": 1,
+    "robot_fingers": 2,
+    "player_choice": "odds",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.1705677461831423
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-07-26T17:46:38.967699",
+    "current_round": 3,
+    "player_fingers": 1,
+    "robot_fingers": 2,
+    "player_choice": "odds",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.28256556559340384
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-08-03T14:01:26.583332",
+    "current_round": 1,
+    "player_fingers": 0,
+    "robot_fingers": 5,
+    "player_choice": "odds",
+    "total": 5,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 0,
+    "ai_prediction": {
+      "finger_count": 3,
+      "choice": "odds",
+      "confidence": 0.18288196854157146
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-08-03T14:01:39.235629",
+    "current_round": 2,
+    "player_fingers": 0,
+    "robot_fingers": 4,
+    "player_choice": "odds",
+    "total": 4,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.3037002687243531
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-08-03T14:01:46.666019",
+    "current_round": 3,
+    "player_fingers": 0,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 1,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 1,
+      "choice": "odds",
+      "confidence": 0.36482765158480235
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-08-03T14:02:09.872860",
+    "current_round": 1,
+    "player_fingers": 0,
+    "robot_fingers": 4,
+    "player_choice": "odds",
+    "total": 4,
+    "is_odd": false,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 2,
+      "choice": "odds",
+      "confidence": 0.40681521921748853
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-08-03T14:02:16.234897",
+    "current_round": 2,
+    "player_fingers": 0,
+    "robot_fingers": 1,
+    "player_choice": "odds",
+    "total": 1,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 1,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 1,
+      "choice": "odds",
+      "confidence": 0.4188545111553841
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-08-03T14:02:24.994856",
+    "current_round": 3,
+    "player_fingers": 0,
+    "robot_fingers": 3,
+    "player_choice": "odds",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": true,
+    "player_wins": 2,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 1,
+      "choice": "odds",
+      "confidence": 0.4607631476113698
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-08-03T14:02:38.232433",
+    "current_round": 1,
+    "player_fingers": 0,
+    "robot_fingers": 1,
+    "player_choice": "evens",
+    "total": 1,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 1,
+      "choice": "odds",
+      "confidence": 0.43887374491818276
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-08-03T14:02:45.529625",
+    "current_round": 2,
+    "player_fingers": 0,
+    "robot_fingers": 1,
+    "player_choice": "evens",
+    "total": 1,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 2,
+    "ai_prediction": {
+      "finger_count": 1,
+      "choice": "odds",
+      "confidence": 0.3607237265211105
+    },
+    "game_finished": true
+  },
+  {
+    "timestamp": "2025-08-03T14:02:56.361040",
+    "current_round": 1,
+    "player_fingers": 0,
+    "robot_fingers": 3,
+    "player_choice": "evens",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 1,
+    "ai_prediction": {
+      "finger_count": 1,
+      "choice": "odds",
+      "confidence": 0.2023146054682914
+    },
+    "game_finished": false
+  },
+  {
+    "timestamp": "2025-08-03T14:03:03.033683",
+    "current_round": 2,
+    "player_fingers": 0,
+    "robot_fingers": 3,
+    "player_choice": "evens",
+    "total": 3,
+    "is_odd": true,
+    "player_won_round": false,
+    "player_wins": 0,
+    "robot_wins": 2,
+    "ai_prediction": {
+      "finger_count": 1,
+      "choice": "odds",
+      "confidence": 0.1366873972817939
+    },
+    "game_finished": true
+  }
+]
